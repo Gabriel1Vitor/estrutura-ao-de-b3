@@ -1,1 +1,3 @@
-# estrutura-ao-de-b3
+# estruturaçao-de-b3
+
+baseado no video https://www.youtube.com/watch?v=gew9014pGaM
